@@ -23,10 +23,10 @@ related:
     thumbnail_url: 'http://www.inc.com/uploaded_files/image/970x450/getty_200522095-001_9706469704500187_61481.jpg'
     thumbnail_width: 970
 publisher:
-  url: 'http://www.designdisruptors.com'
   name: Design Disruptors
-  favicon: 'http://www.invisionapp.com/dd-favicon.ico'
   domain: www.designdisruptors.com
+  url: 'http://www.designdisruptors.com'
+  favicon: 'http://www.invisionapp.com/dd-favicon.ico'
 keywords:
   - design
   - disruptors
@@ -41,15 +41,17 @@ keywords:
 description: "THE 21ST CENTURY HAS SEEN MASSIVE CHANGE IN THE WORLD OF BUSINESS. TRADITIONAL INDUSTRIES HAVE BEEN SHAKEN TO THEIR FOUNDATIONS BY STARTUPS THAT SEEM TO SPRING UP OUT OF NOWHERE. HOW ARE THEY DOING IT? WITH DESIGN. IN DESIGN DISRUPTORS, YOU'LL MEET TOP DESIGNERS AT THE WORLD'S SMARTEST COMPANIES, AND DISCOVER HOW DESIGN HAS BECOME THE NEW LANGUAGE OF BUSINESS."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.designdisruptors.com/'
 title: Design Disruptors
-datePublished: '2015-10-13T17:35:09.834Z'
-dateModified: '2015-10-13T17:34:35.432Z'
+datePublished: '2015-10-13T17:38:10.943Z'
+dateModified: '2015-10-13T17:38:04.311Z'
 sourcePath: _posts/2015-10-13-design-disruptors.md
 published: true
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
+starred: true
+authors: []
+url: design-disruptors/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
