@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "It's here for those that embrace it."
-datePublished: '2015-10-13T17:21:00.491Z'
-dateModified: '2015-10-13T17:20:06.908Z'
+datePublished: '2015-10-13T17:26:22.922Z'
+dateModified: '2015-10-13T17:25:58.107Z'
 title: 'Life Experiences for the taking!'
 authors: []
 publisher:
